@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.blog {
+    float: left;
+    width: 23%;
+    margin: 1%;
+    
+}
+
+.blog img {
+    max-width: 100%;
+    height: auto;
+}
+
+.product-name {
+    overflow: hidden;
+}
+
+.product-name .font {
+    float: left;
+    color: lightgrey;
+}
+
+.product-name .heart-icon {
+    float: right;
+    width: 16px;
+    height: 16px;
+    margin-left: 5px;
+    padding-right: 9px;
+}
+
+p{
+    color: grey;
+}
